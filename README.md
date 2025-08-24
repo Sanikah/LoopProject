@@ -28,4 +28,7 @@ This project provides a backend API to monitor restaurant stores’ uptime and d
 
 1. Clone or download this repository.
 2. Extract/store the required CSV data files (`store_status.csv`, `business_hours.csv`, `store_timezone.csv`) into the project root.
+(due to csv file are of large size couldn't upload here, you can download in the below provided link:
+https://storage.googleapis.com/hiring-problem-statements/store-monitoring-data.zip)
 3. (Optional) Create and activate a virtual environment:
+

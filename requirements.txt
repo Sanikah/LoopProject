@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+pydantic
+sqlalchemy
+python-multipart
+pytz
